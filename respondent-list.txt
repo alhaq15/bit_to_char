@@ -1,0 +1,3 @@
+Agus Sanjaya;20;Male
+Dina Herlina;21;Female
+Rendi Harun;22;Male
